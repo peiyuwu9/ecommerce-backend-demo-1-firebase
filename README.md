@@ -7,4 +7,4 @@ Create a app to test Firebase function.
 **Firebase** is used as database.
 
 ## How to Use
-1. Deploy to **Firebase**
+Deploy to **Firebase**
