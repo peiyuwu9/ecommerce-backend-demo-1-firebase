@@ -3,8 +3,8 @@
 ## Motivation
 Create a app to test Firebase function.
 
-## Technologies used and why
+## Technologies Used and Why
 **Firebase** is used as database.
 
-## Deploy
-**Firebase**
+## How to Use
+1. Deploy to **Firebase**
