@@ -1,4 +1,4 @@
-# Backend Firebase function for Shucha Website Demo
+# Backend Firebase Function for Ecommerce Website Demo
 
 ## Motivation
 Create a app to test Firebase function.
